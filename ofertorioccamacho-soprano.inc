@@ -15,47 +15,47 @@
 		\clef "treble"
 
 		\key a \minor
-                R1  |
-                e' 2. f' 4  |
-                d' 1  |
-                r4 e' a' e'  |
+		R1*4  |
+		e' 2. f' 4  |
+		d' 1  |
+		r4 e' a' e'  |
 %% 5
-                d' 1  |
-                r4 e' g' g'  |
-                a' 4 a' a' g'  |
-                f' 2. f' 4  |
-                g' 2. r4  |
+		d' 1  |
+		r4 e' g' g'  |
+		a' 4 a' a' g'  |
+		f' 2. f' 4  |
+		g' 2. r4  |
 %% 10
-                c'' 2 g' 4 c''  |
-                b' 2 g'  |
-                a' 4 a' a' 8 g' f' 4  |
-                g' 1  |
-                c'' 2 c'' 4 c''  |
+		c'' 2 g' 4 c''  |
+		b' 2 g'  |
+		a' 4 a' a' 8 g' f' 4  |
+		g' 1  |
+		c'' 2 c'' 4 c''  |
 %% 15
-                bes' 2 g'  |
-                f' 4 f' e' 8 d' c' 4  |
-                d' 1  |
-                e' 2. f' 4  |
-                d' 1  |
+		bes' 2 g'  |
+		f' 4 f' e' 8 d' c' 4  |
+		d' 1  |
+		e' 2. f' 4  |
+		d' 1  |
 %% 20
-                r4 e' a' e'  |
-                d' 1  |
-                r4 e' g' g'  |
-                a' 4 a' a' g'  |
-                f' 2. f' 4  |
+		r4 e' a' e'  |
+		d' 1  |
+		r4 e' g' g'  |
+		a' 4 a' a' g'  |
+		f' 2. f' 4  |
 %% 25
-                g' 2. r4  |
-                c'' 2 g' 4 c''  |
-                b' 2 g'  |
-                a' 4 a' a' 8 g' f' 4  |
-                g' 1  |
+		g' 2. r4  |
+		c'' 2 g' 4 c''  |
+		b' 2 g'  |
+		a' 4 a' a' 8 g' f' 4  |
+		g' 1  |
 %% 30
-                c'' 2 c'' 4 c''  |
-                bes' 2 g'  |
-                f' 4 f' e' 8 d' c' 4  |
-                d' 2. d' 4  |
-                e' 1  |
-                \bar "|."
+		c'' 2 c'' 4 c''  |
+		bes' 2 g'  |
+		f' 4 f' e' 8 d' c' 4  |
+		d' 2. d' 4  |
+		e' 1  |
+		\bar "|."
 	}
 
 	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
