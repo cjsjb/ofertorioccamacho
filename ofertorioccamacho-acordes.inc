@@ -10,7 +10,7 @@
 		c1 f1 bes1 g1
 
 		% ve nuestra ofrenda...
-		c1 e1:m f1 c1
+		c1 e1:m f2 g2 c1
 		aes1 ees1 des2 c2 g1
 
 		% pero tú...
@@ -18,7 +18,7 @@
 		c1 f1 bes1 g1
 
 		% toma mi vida...
-		c1 e1:m f1 c1
+		c1 e1:m f2 g2 c1
 		aes1 ees1 des2 c2 g1
 
 		% amén...
