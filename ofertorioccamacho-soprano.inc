@@ -73,8 +73,8 @@
 		To -- ma mi vi -- da
 		y tam -- bién cam -- bia -- rá.
 		Lle -- na mi al -- ma
-		de tu gra -- cia y tu paz.
+		de tu gra -- "cia y" tu paz.
 
-		Amén.
+		A -- mén.
 	}
 >>
