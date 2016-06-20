@@ -33,7 +33,7 @@
                 g 1  |
                 c' 2 c' 4 c'  |
                 bes 2 g  |
-                aes 4 aes g 8 f ees 4  |
+                aes 4 aes g 8 f e 4  |
 %% 20
                 g 1  |
                 e 2. f 4  |
@@ -53,7 +53,7 @@
                 c' 2 c' 4 c'  |
                 bes 2 g  |
 %% 35
-                aes 4 aes g 8 f ees 4  |
+                aes 4 aes g 8 f e 4  |
                 g 2. g 4  |
                 a 1  |
                 \bar "|."
