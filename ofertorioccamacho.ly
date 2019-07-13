@@ -29,8 +29,8 @@ globalTempo = {
 
 		\include "ofertorioccamacho-acordes.inc"
 		\new StaffGroup <<
-			%\include "ofertorioccamacho-soprano.inc"
-			%\include "ofertorioccamacho-mezzo.inc"
+			\include "ofertorioccamacho-soprano.inc"
+			\include "ofertorioccamacho-mezzo.inc"
 			\include "ofertorioccamacho-tenor.inc"
 		>>
 		\new StaffGroup <<
