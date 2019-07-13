@@ -13,45 +13,46 @@
 
 		\time 4/4
 		\clef "treble"
-
 		\key a \minor
+
 		R1*4  |
+%% 5
 		e' 2. f' 4  |
 		d' 1  |
 		r4 e' a' e'  |
-%% 5
-		d' 1  |
+		g' 1  |
 		r4 e' g' g'  |
+%% 10
 		a' 4 a' a' g'  |
 		f' 2. f' 4  |
 		g' 2. r4  |
-%% 10
-		c'' 2 g' 4 c''  |
-		b' 2 g'  |
-		a' 4 a' a' 8 g' f' 4  |
-		g' 1  |
-		c'' 2 c'' 4 c''  |
+		e' 2 e' 4 f'  |
+		g' 2 e'  |
 %% 15
+		f' 4 f' f' 8 e' d' 4  |
+		e' 1  |
+		aes' 2 aes' 4 aes'  |
 		bes' 2 g'  |
 		f' 4 f' e' 8 d' c' 4  |
+%% 20
 		d' 1  |
 		e' 2. f' 4  |
 		d' 1  |
-%% 20
 		r4 e' a' e'  |
-		d' 1  |
+		g' 1  |
+%% 25
 		r4 e' g' g'  |
 		a' 4 a' a' g'  |
 		f' 2. f' 4  |
-%% 25
 		g' 2. r4  |
-		c'' 2 g' 4 c''  |
-		b' 2 g'  |
-		a' 4 a' a' 8 g' f' 4  |
-		g' 1  |
+		e' 2 e' 4 f'  |
 %% 30
-		c'' 2 c'' 4 c''  |
+		g' 2 e'  |
+		f' 4 f' f' 8 e' d' 4  |
+		e' 1  |
+		aes' 2 aes' 4 aes'  |
 		bes' 2 g'  |
+%% 35
 		f' 4 f' e' 8 d' c' 4  |
 		d' 2. d' 4  |
 		e' 1  |
