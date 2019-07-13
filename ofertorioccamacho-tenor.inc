@@ -17,45 +17,45 @@
 
 		R1*4  |
 %% 5
-                e 2. f 4  |
-                d 1  |
-                r4 e a e  |
-                d 1  |
-                r4 e c' c'  |
+		e 2. f 4  |
+		d 1  |
+		r4 e a e  |
+		d 1  |
+		r4 e c' c'  |
 %% 10
-                c' 4 c' c' c'  |
-                bes 2. bes 4  |
-                b 2. r4  |
-                c' 2 g 4 c'  |
-                b 2 g  |
+		c' 4 c' c' c'  |
+		bes 2. bes 4  |
+		b 2. r4  |
+		c' 2 g 4 c'  |
+		b 2 g  |
 %% 15
-                a 4 a a 8 g f 4  |
-                g 1  |
-                c' 2 c' 4 c'  |
-                bes 2 g  |
-                aes 4 aes g 8 f e 4  |
+		a 4 a a 8 g f 4  |
+		g 1  |
+		c' 2 c' 4 c'  |
+		bes 2 g  |
+		aes 4 aes g 8 f e 4  |
 %% 20
-                g 1  |
-                e 2. f 4  |
-                d 1  |
-                r4 e a e  |
-                d 1  |
+		g 1  |
+		e 2. f 4  |
+		d 1  |
+		r4 e a e  |
+		d 1  |
 %% 25
-                r4 e c' c'  |
-                c' 4 c' c' c'  |
-                bes 2. bes 4  |
-                b 2. r4  |
-                c' 2 g 4 c'  |
+		r4 e c' c'  |
+		c' 4 c' c' c'  |
+		bes 2. bes 4  |
+		b 2. r4  |
+		c' 2 g 4 c'  |
 %% 30
-                b 2 g  |
-                a 4 a a 8 g f 4  |
-                g 1  |
-                c' 2 c' 4 c'  |
-                bes 2 g  |
+		b 2 g  |
+		a 4 a a 8 g f 4  |
+		g 1  |
+		c' 2 c' 4 c'  |
+		bes 2 g  |
 %% 35
-                aes 4 aes g 8 f e 4  |
-                g 2. g 4  |
-                a 1  |
+		aes 4 aes g 8 f e 4  |
+		g 2. g 4  |
+		a 1  |
                 \bar "|."
 	}
 
