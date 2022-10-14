@@ -59,7 +59,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		Vi -- "no y" pan en o -- bla -- ción
 		es -- pe -- ran el mi -- la -- gro del Se -- ñor.
 
